@@ -1,1 +1,26 @@
-{}
+{
+    "user": {
+        "id": "fihfpefuhr845",
+        "username": "danieldon"
+    },
+    "pet": [
+        {
+            "name": "Drill",
+            "id": "slieu39843n",
+            "type": "DOG",
+            "createdAt": "dsi48394jd"
+        },
+        {
+            "name": "Prisca",
+            "id": "slieu3kjsie9843n",
+            "type": "CAT",
+            "createdAt": "dsie48394jd"
+        },
+        {
+            "name": "Scate",
+            "id": "slieukkprp39843n",
+            "type": "DOG",
+            "createdAt": "dsi48392244jd"
+        }
+    ]
+}
